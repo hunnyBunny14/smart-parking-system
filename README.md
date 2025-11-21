@@ -1,32 +1,34 @@
-🚗 IoT-Based Smart Parking System
-
-A modern web-based simulation + IoT concept project demonstrating how smart parking automation works using sensors, slot detection, and real-time UI updates.
+A modern web-based simulation demonstrating how an IoT-driven smart parking automation system works using sensors, slot detection, and real-time UI updates.
 
 📌 Project Overview
 
-The IoT-Based Smart Parking System is designed to automate the detection and management of parking slots using IoT principles.
-It includes a full interactive web simulation, visual slot monitoring, car icon animation, and smart features such as:
+The IoT-Based Smart Parking System automates detection and management of parking slots using IoT principles.
+This project contains a full interactive web simulation, including:
 
 Real-time parking slot monitoring
 
 Automatic slot occupation detection
 
-Car animation entering/exiting slots
+Car icon animations entering/exiting slots
 
-Dashboard showing total, occupied & free slots
+Smart dashboard with analytics
 
-Clean UI simulation built with HTML, TailwindCSS & JavaScript
+Clean, responsive UI using TailwindCSS
 
-This project demonstrates the working model of an IoT-enabled parking system without requiring real hardware.
+This model demonstrates how an IoT-powered parking system works without real hardware, making it perfect for PBL submissions, presentations, and academic demonstrations.
 
-🎯 Features
+🔴 Live Demo : https://hunnybunny14.github.io/smart-parking-system/
+
+Experience the fully interactive parking simulation directly from your browser — no backend, no ESP32 required!
+
+🎯 Key Features
 ✔ Real-Time Slot Monitoring
 
 Each slot updates instantly when occupied or free.
 
 ✔ Car Icon Simulation
 
-Animated car icon moves into the selected slot for a realistic parking experience.
+Animated car icon smoothly moves into parking slots for realistic visualization.
 
 ✔ Interactive Dashboard
 
@@ -34,64 +36,67 @@ Total slots
 
 Occupied slots
 
-Available slots
+Free slots
 
-✔ Fully Web-Based (No Hardware Needed)
+✔ Pure Web Simulation
 
-This version is a pure web simulation, suitable for:
+No backend or hardware required.
+Ideal for:
 
-PBL projects
+Engineering IoT projects
 
-Engineering students
+College PBL
 
-Demonstration & presentations
+Demonstrations & exhibitions
 
 🛠 Tech Stack
-Component	Technology
-Front-End	HTML, CSS, TailwindCSS
-Logic / Simulation	JavaScript
-Graphs (optional)	Chart.js
-Backend	Not required (simulation only)
+Component Technology
+Front-End HTML, CSS, TailwindCSS
+Logic / Simulation JavaScript
+Charts (optional) Chart.js
+Backend Not required (simulation only)
 📁 Project Structure
-/smart-parking-system
+smart-parking-system/
 │
-├── IOT_PROJECT.html        # Main simulation UI
-├── IoT-Based-Smart-Parking-System.pdf   # Project report
-├── IoT-Based-Smart-Parking-System.pptx  # Presentation
-├── IOT REPORT T015.docx   # Written report
-└── README.md              # Documentation
+├── IOT_PROJECT.html # Main simulation UI
+├── IoT-Based-Smart-Parking-System.pdf # Project report
+├── IoT-Based-Smart-Parking-System.pptx # Presentation slides
+├── IOT REPORT T015.docx # Documentation report
+└── README.md # Project documentation
 
 🚀 How to Run
 
-Download or clone the repository:
+1. Clone or Download
+   git clone https://github.com/hunnyBunny14/smart-parking-system.git
 
-git clone https://github.com/hunnyBunny14/smart-parking-system.git
+2. Open the Simulation
 
-
-Open the file:
+Simply open:
 
 IOT_PROJECT.html
 
-
-The simulation runs directly in your browser — no setup needed!
+The webpage will open in any browser — no installation required.
 
 👨‍💻 Team Members
-Name	Role	Email
-Sahil Kumar (Team Lead)	Overall development & UI	sahilkumar954815@gmail.com
+Name Role Email
+Sahil Kumar (Team Lead) UI + Complete Project Development sahilkumar954815@gmail.com
 
-Yashasvi Tripathi	Code & simulation logic	—
-Abhijeet Sharma	Documentation	plkalauarasan@gmail.com
+Yashasvi Tripathi Code & Simulation Logic —
+Abhijeet Sharma Documentation plkalauarasan@gmail.com
 
-Bena Devi	Presentation & report	benadevi992@gmail.com
+Bena Devi Presentation & Report benadevi992@gmail.com
 📷 Screenshots (Optional)
 
-(Tell me if you want me to generate or stylize screenshots!)
+I can generate polished screenshots or add them into your README.
+Just say "add screenshots".
 
 📝 License
 
-This project is created for academic learning and demonstration.
-Free to use with credits.
+This project is created for academic and demonstration purposes.
+Free to use with proper credit.
 
-⭐ Show Your Support
+⭐ Support the Project
 
-If you like this project, consider ⭐ starring the repository!
+If you found this project helpful, please ⭐ star the repository:
+
+👉 https://github.com/hunnyBunny14/smart-parking-system
