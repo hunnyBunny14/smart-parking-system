@@ -95,7 +95,7 @@ Just say "add screenshots".
 This project is created for academic and demonstration purposes.
 Free to use with proper credit.
 
-⭐ Support the Project
+⭐ Support the Project !
 
 If you found this project helpful, please ⭐ star the repository:
 
